@@ -1,0 +1,14 @@
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\bin\Debug\net8.0\FileMover.exe
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\bin\Debug\net8.0\FileMover.deps.json
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\bin\Debug\net8.0\FileMover.runtimeconfig.json
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\bin\Debug\net8.0\FileMover.dll
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\bin\Debug\net8.0\FileMover.pdb
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.AssemblyInfoInputs.cache
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.AssemblyInfo.cs
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.csproj.CoreCompileInputs.cache
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.dll
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\refint\FileMover.dll
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.pdb
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\FileMover.genruntimeconfig.cache
+C:\Users\jakub.chabrowski\source\repos\FileMover\FileMover\obj\Debug\net8.0\ref\FileMover.dll
