@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub.chabrowski\\source\\repos\\FileMover\\FileMover\\FileMover.csproj",
+      "projectUniqueName": "C:\\Users\\jakub.chabrowski\\source\\repos\\Reszta\\FileMover\\FileMover\\FileMover.csproj",
       "projectName": "FileMover",
-      "projectPath": "C:\\Users\\jakub.chabrowski\\source\\repos\\FileMover\\FileMover\\FileMover.csproj",
+      "projectPath": "C:\\Users\\jakub.chabrowski\\source\\repos\\Reszta\\FileMover\\FileMover\\FileMover.csproj",
       "packagesPath": "C:\\Users\\jakub.chabrowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub.chabrowski\\source\\repos\\FileMover\\FileMover\\obj\\",
+      "outputPath": "C:\\Users\\jakub.chabrowski\\source\\repos\\Reszta\\FileMover\\FileMover\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

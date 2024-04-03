@@ -1,0 +1,5 @@
+C:\Users\jakub.chabrowski\source\repos\Reszta\FileMover\FileMover\bin\Release\net8.0\publish\FileMover.exe
+C:\Users\jakub.chabrowski\source\repos\Reszta\FileMover\FileMover\bin\Release\net8.0\publish\FileMover.dll
+C:\Users\jakub.chabrowski\source\repos\Reszta\FileMover\FileMover\bin\Release\net8.0\publish\FileMover.deps.json
+C:\Users\jakub.chabrowski\source\repos\Reszta\FileMover\FileMover\bin\Release\net8.0\publish\FileMover.runtimeconfig.json
+C:\Users\jakub.chabrowski\source\repos\Reszta\FileMover\FileMover\bin\Release\net8.0\publish\FileMover.pdb
